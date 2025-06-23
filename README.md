@@ -13,7 +13,7 @@ This project is a 3-day challenge set by myself to have fun and prepare for any 
 
 | Day | Category            | Problems Completed | Notes |
 |-----|---------------------|--------------------|-------|
-| 1   | Arrays & Hashing    | 3                  | Hash map, enumerates |
+| 1   | Arrays & Hashing    | 4                  | Hash map, enumerates |
 | x   | x                   | x                  | x |
 | x   | x                   | x                  | x |
 | x   | x                   | X                  | x |
