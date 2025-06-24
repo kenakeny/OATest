@@ -30,6 +30,6 @@ This project is a 3-day challenge set by myself to have fun and prepare for any 
 
 ## 🚀 Mission Goals
 
-- [] Complete as many problems in NeetCode with clean, optimized Python solutions.
-- [] Internalize common DSA patterns: Sliding Window, Binary Search, Two Pointers, etc.
-- [] Be OA-ready for top-tier tech companies (IBM, Google, Amazon, etc.).
+- [] Complete as many problems Leetcode Style with clean, optimized Python solutions.
+- [] Remembering DSA patterns
+- [] Be ready for any coding assessment
