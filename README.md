@@ -13,19 +13,19 @@ This project is a 3-day challenge set by myself to have fun and prepare for any 
 
 ---
 
-## 🧱 Progress Log
-|Problems                   |
-|2integerSum2               |
-|LongSubstring Replace      | 
-|containDuplicate element   |
-|groupAnagaram              |
-|isAnagram                  |
-|longestsubstring           |
-|validplaindrome            |
-|best time to buy and sell  |
-|threesum                   |   
-|top k frequent elements    |
-|two sum                    |
+| #  | Problem                                        |
+| -- | ---------------------------------------------- |
+| 1  | Two Sum                                        |
+| 2  | Longest Substring Replacement                  |
+| 3  | Contains Duplicate                             |
+| 4  | Group Anagrams                                 |
+| 5  | Valid Anagram                                  |
+| 6  | Longest Substring Without Repeating Characters |
+| 7  | Valid Palindrome                               |
+| 8  | Best Time to Buy and Sell Stock                |
+| 9  | Three Sum                                      |
+| 10 | Top K Frequent Elements                        |
+| 11 | Two Sum II                                     |
 
 
 ## 🚀 Mission Goals
