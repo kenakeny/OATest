@@ -1,10 +1,6 @@
 # 🔥 Leetcode attempts – Python  Start Project
 
-**Objective:**  
-Accelerate Python mastery and DSA by learning & finishing the NeetCode 150 problem set using Python.  
-This project is a 3-day challenge set by myself to have fun and prepare for any coding assessment.
-
----
+I'm basically doing some leetcode everynow and then!
 
 ## 💻 Environment
 
@@ -30,6 +26,6 @@ This project is a 3-day challenge set by myself to have fun and prepare for any 
 
 ## 🚀 Mission Goals
 
-- [] Complete as many problems Leetcode Style with clean, optimized Python solutions.
+- [] Complete as many problems Leetcode Style with clean Python solutions.
 - [] Remembering DSA patterns
 - [] Be ready for any coding assessment
